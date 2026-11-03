@@ -16,5 +16,5 @@ Mwaka
 
 Abdirizak
 ============================
-- navbar.php & footer.php
+- navbar.php
   
