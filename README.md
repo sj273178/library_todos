@@ -2,11 +2,6 @@ Esther M
 ===========================
 - books/ create.php, edit.php, index.php, delete.php
 
-
-Mugwanya
-===========================
-
-
 SUBAN 
 ===========================
 -Loan folder
