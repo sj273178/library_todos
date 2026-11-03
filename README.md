@@ -13,5 +13,4 @@ SUBAN
 
 Swabulah
 ===========================
--members/ create.php
--members/ edit.php
+-members/ create.php & edit.php
