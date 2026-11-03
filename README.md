@@ -13,3 +13,8 @@ Swabulah
 Mwaka
 ===========================
 -members/ delete.php & index.php
+
+Abdirizak
+============================
+- navbar.php & footer.php
+  
