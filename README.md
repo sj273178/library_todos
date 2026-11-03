@@ -1,23 +1,35 @@
 Esther M
 ===========================
-- books/ create.php, edit.php, index.php, delete.php
+Books
 
 SUBAN 
 ===========================
--Loan folder
+Loan folder
 
 Swabulah
 ===========================
--members/ create.php & edit.php
+Members
 
 Mwaka
 ===========================
--members/ delete.php & index.php
+Include
 
 Abdirizak
 ============================
-- all files in include
+Authors
   
 Tukamushaba
 ============================
-index and dashboard
+Index and dashboard
+
+Jeslor
+=============================
+Config
+Database
+Categories
+
+Milly
+==============================
+Auth
+
+
